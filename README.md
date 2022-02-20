@@ -1,2 +1,2 @@
-# ES60
-Equal Stagger 60%
+# ES70
+Equal Stagger 70% keyboard
